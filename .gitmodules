@@ -1,0 +1,12 @@
+[submodule "worker"]
+	path = worker
+	url = git@github.com:shellcoop/worker.git
+[submodule "orchestrator"]
+	path = orchestrator
+	url = git@github.com:shellcoop/orchestrator.git
+[submodule "bff"]
+	path = bff
+	url = git@github.com:shellcoop/bff.git
+[submodule "front"]
+	path = front
+	url = git@github.com:shellcoop/front.git
